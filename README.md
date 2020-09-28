@@ -18,6 +18,8 @@ JavaScript
 
 Shell Scripting/UNIX
 
+git/SCRUM/CI/CD/TDD
+
 # Middle Tier
 Here we study bioinformatics platforms, software and tools and pipelines related to current omics
 
